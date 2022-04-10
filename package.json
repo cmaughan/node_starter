@@ -1,0 +1,13 @@
+{
+  "name": "chris_node",
+  "version": "1.0.0",
+  "description": "Nodejs fun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
